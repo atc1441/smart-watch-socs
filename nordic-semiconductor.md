@@ -1,8 +1,16 @@
 ## Index
 - [nRF52832](#nrf52832)
 
-### nRF52832
+### HS6601
 
 | Device | Price | URL |
 |-|-:|-|
-| Pinetime | $24.99 | https://store.pine64.org/?product=pinetime-dev-kit |
+|  |  |  |
+
+
+### HS6601
+
+
+| Device | Price | URL |
+|-|-:|-|
+|  |  |  |
