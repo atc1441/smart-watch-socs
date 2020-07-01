@@ -8,7 +8,7 @@
 |  |  |  |
 
 
-### HS6601
+### HS6620
 
 
 | Device | Price | URL |
