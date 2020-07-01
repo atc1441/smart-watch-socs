@@ -2,3 +2,4 @@
 A list of smart watches and their corresponding SoC and price (USD)
 
 - [Nordic Semiconductor](nordic-semiconductor.md)
+- [HunterSun](huntersun.md)
