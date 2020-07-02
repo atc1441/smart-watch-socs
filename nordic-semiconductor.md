@@ -6,7 +6,8 @@
 
 | Device | Price | URL |
 |-|-:|-|
-| Pinetime | $24.99 | https://store.pine64.org/?product=pinetime-dev-kit |
+| Pine64 Pinetime | $24.99 | https://store.pine64.org/?product=pinetime-dev-kit |
+| COLMI P8 | $39.95 | https://www.colmi.com/products/p8-smartwatch |
 
 
 ### nRF51822
